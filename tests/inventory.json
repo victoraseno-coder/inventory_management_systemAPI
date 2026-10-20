@@ -1,0 +1,50 @@
+[
+  {
+    "status": 1,
+    "product": {
+      "product_name": "Organic Almond Milk",
+      "brands": "Silk",
+      "ingredients_text": "Filtered water, almonds, cane sugar, natural flavors",
+      "categories": "Beverages",
+      "barcode": "123456789012",
+      "quantity": 24,
+      "price": 3.99
+    }
+  },
+  {
+    "status": 1,
+    "product": {
+      "product_name": "Dark Chocolate Bar",
+      "brands": "Lindt",
+      "ingredients_text": "Cocoa mass, sugar, cocoa butter, milk, soy lecithin",
+      "categories": "Snacks",
+      "barcode": "987654321098",
+      "quantity": 50,
+      "price": 2.49
+    }
+  },
+  {
+    "status": 1,
+    "product": {
+      "product_name": "Whole Wheat Bread",
+      "brands": "Nature's Own",
+      "ingredients_text": "Whole wheat flour, water, yeast, salt, honey",
+      "categories": "Bakery",
+      "barcode": "456789012345",
+      "quantity": 18,
+      "price": 4.25
+    }
+  },
+  {
+    "status": 1,
+    "product": {
+      "product_name": "Greek Yogurt Plain",
+      "brands": "Chobani",
+      "ingredients_text": "Cultured pasteurized nonfat milk, live active cultures",
+      "categories": "Dairy",
+      "barcode": "321098765432",
+      "quantity": 36,
+      "price": 1.79
+    }
+  }
+]
